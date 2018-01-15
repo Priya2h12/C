@@ -27,11 +27,11 @@ flag=flag+1;
     
 if(flag==0)
     
-printf("given string  is not numeric");
+printf("yes");
     
 else
     
-printf("given string is numeric");
+printf("no");
     
 }
 
