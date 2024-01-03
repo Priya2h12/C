@@ -1,5 +1,6 @@
+//WAP to check if the number is positive or negative.
 #include <stdio.h>
-int main(void) 
+int main() 
 {
 int number;
 printf("Enter a number\n");
